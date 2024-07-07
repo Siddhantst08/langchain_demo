@@ -4,7 +4,7 @@ from langchain.llms import OpenAI
 
 import streamlit as st
 
-os.environ['OPENAI_API_KEY'] = "sk-proj-V6kd5GR4DKJ0y3WSJpIGT3BlbkFJFIpJHkaMmRy8Ou9BFxWJ"
+os.environ['OPENAI_API_KEY'] = ""
 
 # streamlit framework
 
